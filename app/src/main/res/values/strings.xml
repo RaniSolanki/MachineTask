@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineTask</string>
+
+    <string name="technical_error" translatable="false">We are facing some technical issue, please try after some time.</string>
+</resources>
